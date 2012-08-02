@@ -26,3 +26,4 @@ obj/
 _ReSharper*/
 *.DotSettings.user
 [Tt]est[Rr]esult*
+*.ncrunchsolution
